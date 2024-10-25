@@ -24,5 +24,5 @@ Sou um desenvolvedor web com especialização em WordPress, Elementor, CSS e des
 - **Código Fonte**: [Link para o repositório](https://github.com/seuusuario/campanhaZ)
 
 ## Contato
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/luis-oliveira-virtualview/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/luis-oliveira-virtualview/)
 - **E-mail**: suporte@luisoliveira.com.br
