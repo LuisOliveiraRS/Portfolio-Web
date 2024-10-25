@@ -1,0 +1,1 @@
+[21-Oct-2024 18:42:41 UTC] Erro de desativação de evento de cron para o gancho: wp_delete_temp_updater_backups, código de erro: could_not_set, mensagem de erro: Não foi possível salvar a lista de evento do cron, dados: {"schedule":false,"args":[]}

@@ -1,0 +1,122 @@
+# Translation of Themes - Convo in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Convo package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-01-09 14:40:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Convo\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Convo is a fast and lightweight, multi-purpose WordPress theme. Enjoy Ken Burns effect, background elements, & smooth animations. Build amazing website with Convo. Checkout the demo of Convo Pro https://www.nayrathemes.com/demo/pro/?theme=convo"
+msgstr "Convo é um tema WordPress rápido, leve e multifuncional. Aproveite o efeito Ken Burns, elementos de fundo e animações suaves. Crie um site incrível com Convo. Confira a demonstração do Convo Pro https://www.nayrathemes.com/demo/pro/?theme=convo"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Convo"
+msgstr "Convo"
+
+#: inc/customize/convo-premium.php:34
+msgid "Show Some Love"
+msgstr "Demonstre amor"
+
+#: inc/customize/convo-premium.php:30
+msgid "Free Vs Pro"
+msgstr "Grátis Vs Pro"
+
+#: inc/customize/convo-premium.php:28
+msgid "Get Support"
+msgstr "Get Support"
+
+#: inc/customize/convo-premium.php:12 inc/customize/convo-premium.php:32
+msgid "Upgrade to Pro"
+msgstr "Atualize para o Pro"
+
+#: woocommerce/content-product.php:42
+msgid "SALE"
+msgstr "OFERTA"
+
+#: woocommerce/cart/mini-cart.php:65 woocommerce/cart/mini-cart.php:139
+msgid "No products in the cart."
+msgstr "Nenhum produto no carrinho."
+
+#: woocommerce/cart/mini-cart.php:61 woocommerce/cart/mini-cart.php:135
+msgid "Check out"
+msgstr "Confira"
+
+#: woocommerce/cart/mini-cart.php:58 woocommerce/cart/mini-cart.php:132
+msgid "Grand total"
+msgstr "Soma total"
+
+#: woocommerce/cart/mini-cart.php:42 woocommerce/cart/mini-cart.php:116
+msgid "Remove this item"
+msgstr "Remover este item"
+
+#: template-parts/sections/section-blog.php:56
+msgid "Read More"
+msgstr "Consulte mais informação"
+
+#: template-parts/sections/convo-navigation.php:167
+msgid "Type To Search"
+msgstr "Type To Search"
+
+#: template-parts/sections/convo-navigation.php:166
+msgid "Search for:"
+msgstr "Pesquisar por:"
+
+#: template-parts/sections/convo-navigation.php:165
+msgid "Site Search"
+msgstr "Site Search"
+
+#: template-parts/sections/convo-navigation.php:137
+msgid "0 item - $0.00"
+msgstr "0 item – $ 0,00"
+
+#: page.php:47
+msgid "Pages:"
+msgstr "Pages:"
+
+#: inc/sidebar/sidebar.php:20
+msgid "The Woocommerce Widget Area"
+msgstr "Área do Widget WooCommerce"
+
+#: inc/sidebar/sidebar.php:18
+msgid "Woocommerce Widget Area"
+msgstr "Área do Widget WooCommerce"
+
+#: inc/customize/convo-header-section.php:34
+msgid "Hide / Show Cart"
+msgstr "Ocultar/Mostrar carrinho"
+
+#: inc/customize/convo-header-section.php:14
+msgid "Header Search"
+msgstr "Pesquisa de cabeçalho"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.nayrathemes.com/convo-free/"
+msgstr "https://www.nayrathemes.com/convo-free/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.nayrathemes.com/"
+msgstr "https://www.nayrathemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Nayra Themes"
+msgstr "Nayra Themes"
