@@ -9,7 +9,7 @@ Sou um desenvolvedor web com especialização em WordPress, Elementor, CSS e des
 - **Descrição**: Site institucional desenvolvido para a empresa X, focado em UX e design responsivo.
 - **Tecnologias**: WordPress, Elementor, CSS, HTML.
 - **Demonstração**: [Link para o Site](https://luisoliveira.com.br)
-- **Código Fonte**: [Link para o repositório](https://github.com/seuusuario/empresaX-site)
+- **Código Fonte**: [Link para o repositório](https://github.com/LuisOliveiraRS/Portfolio-Web)
 
 ### 2. Loja Virtual - E-commerce Muda de Vita
 - **Descrição**: Loja virtual desenvolvida para o cliente Y, incluindo funcionalidades de carrinho de compras, integração com meios de pagamento e suporte a mobile.
