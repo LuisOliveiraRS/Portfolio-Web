@@ -1,7 +1,7 @@
 # Portfólio de Desenvolvedor Web
 
 ## Sobre Mim
-Sou um desenvolvedor web com especialização em WordPress, Elementor, CSS e desenvolvimento de lojas virtuais. Aqui você encontrará alguns dos meus projetos principais que demonstram minhas habilidades e experiência.
+Desenvolvedor web com especialização em WordPress, Elementor, CSS e desenvolvimento de lojas virtuais. Aqui você encontrará alguns dos meus projetos principais que demonstram minhas habilidades e experiência.
 
 ## Projetos Principais
 
